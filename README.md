@@ -3,6 +3,7 @@
 Hello! My name is Minh Huynh.
 [My Linkedin](https://www.linkedin.com/in/minh-huynh-087497161)
 
+This file is edited on March 3rd
 
 <!--
 **minhhuynh99/minhhuynh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
